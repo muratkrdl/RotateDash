@@ -7,7 +7,7 @@
 
 # Gameplay
 
-<img src="https://github.com/muratkrdl/RotateDash/blob/main/Gameplay.gif" width="auto">
+<img src="https://github.com/muratkrdl/RotateDash/blob/main/Gameplay.gif" width="500">
 
 
 ## Authors
